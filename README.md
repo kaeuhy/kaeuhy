@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 eunhyeon kang
 
-<!--
-**kaeuhy/kaeuhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<strong>Instagram</strong>
+</br>
+@kaeuhy
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>My velog</strong>
+</br>
+https://velog.io/@kaeuhy/posts
+
+</br>
+
+```
+import React from 'react';
+
+const kaeuhy = {
+  name: "강은현",
+  age: 25,
+  education: "Hanbat National Univ",
+  affiliation: "WisoftLab",
+  studying: ["JavaScript", "React", "Git"]
+};
+
+function Introduction() {
+  return (
+    <div>
+      <h2>👋 자기소개</h2>
+      <p><strong>이름</strong>: {kaeuhy.name}</p>
+      <p><strong>나이</strong>: {kaeuhy.age}세</p>
+      <p><strong>학력</strong>: {kaeuhy.education}</p>
+      <p><strong>소속</strong>: {kaeuhy.affiliation}</p>
+      <p><strong>공부 중인 언어</strong>:</p>
+      <ul>
+        {kaeuhy.studying.map((lang, index) => (
+          <li key={index}>{lang}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export default Introduction;
+```
