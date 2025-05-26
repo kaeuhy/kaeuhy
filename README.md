@@ -21,7 +21,7 @@ const kaeuhy = {
   age: 25,
   education: "Hanbat National Univ",
   affiliation: "WisoftLab",
-  studying: ["JavaScript", "React", "Git"]
+  studying: ["JavaScript", "TypeScript", "React", "Git"]
 };
 
 function Introduction() {
@@ -32,7 +32,7 @@ function Introduction() {
       <p><strong>나이</strong>: {kaeuhy.age}세</p>
       <p><strong>학력</strong>: {kaeuhy.education}</p>
       <p><strong>소속</strong>: {kaeuhy.affiliation}</p>
-      <p><strong>공부 중인 언어</strong>:</p>
+      <p><strong>스터디</strong>:</p>
       <ul>
         {kaeuhy.studying.map((lang, index) => (
           <li key={index}>{lang}</li>
