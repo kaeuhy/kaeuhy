@@ -7,9 +7,10 @@
 @kaeuhy
 </br>
 
-<strong>My velog</strong>
+<strong>개발 blog</strong>
 </br>
 https://velog.io/@kaeuhy/posts
+https://medium.com/@20212105
 
 </br>
 
