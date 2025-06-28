@@ -10,8 +10,6 @@
 <strong>개발 blog</strong>
 </br>
 https://velog.io/@kaeuhy/posts
-</br>
-https://medium.com/@20212105
 
 </br>
 
