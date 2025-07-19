@@ -10,6 +10,6 @@
 
 [Velog](https://velog.io/@kaeuhy)
 
-[cjswodmsgus@naver.com](mailto:cjswodmsgus@naver.com)
+[kaeuhy_0315@naver.com](mailto:kaeuhy_0315@naver.com)
 
 **끊임없이 배우고, 기록하며 성장하는 프론트엔드 주니어 개발자입니다.**
