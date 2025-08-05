@@ -12,4 +12,8 @@
 
 [kaeuhy_0315@naver.com](mailto:kaeuhy_0315@naver.com)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+
 **끊임없이 배우고, 기록하며 성장하는 프론트엔드 주니어 개발자입니다.**
