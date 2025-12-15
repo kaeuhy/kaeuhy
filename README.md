@@ -27,10 +27,10 @@
 <div align="center">
   <h3>Contact</h3>
   <a href="https://velog.io/@kaeuhy">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
   </a>
   <a href="mailto:kaeuhy_0315@naver.com">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/kaeuhy?pet-id=1" width="500" height="120"/>
+  <img src="https://render.gitanimals.org/lines/kaeuhy?pet-id=1" width="1000" height="200"/>
 </a>
 
 <br/>
