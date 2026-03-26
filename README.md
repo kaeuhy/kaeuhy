@@ -3,6 +3,9 @@
 </a>
 
 
+<br clear="all" />
+<br />
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/kaeuhy" width="450" height="160"/>
+  <img src="https://render.gitanimals.org/farms/kaeuhy" width="600" height="700"/>
 </a>
