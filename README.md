@@ -4,5 +4,5 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img align="right" src="https://render.gitanimals.org/lines/kaeuhy?pet-id=1" width="350" height="150"/>
+  <img src="https://render.gitanimals.org/farms/kaeuhy" width="450" height="160"/>
 </a>
